@@ -1,0 +1,22 @@
+export const games: string[] = [
+    "RBYY", "BRGG", "GGYR", "BYYB", "BRYY", 
+    "RBGG", "GGYB", "BYYR", "RBGY", "RRGG", 
+    "RYYB", "RRGY", "RYBR", "RBYR", "BYGG", 
+    "RRYY", "BYYG", "BBYR", "RRYG", "BBGY", 
+    "RRYB", "RRBY", "GGGY", "RYYR", "BYBB", 
+    "RGYR", "RRBB", "RGGY", "BGYR", "BYBG", 
+    "RYBG", "BGYB", "RBBG", "BGYY", "RRBG", 
+    "BGGY", "YRGY", "RBRR", "YRYY", "YRYG", 
+    "YRYB", "RYRR", "RGRR", "RBYG", "BBGG", 
+    "BRGY", "BBYG", "BYGR", "RGYB", "YGGB", 
+    "BRYG", "BBYY", "YYGG", "YYYG", "RBGR", 
+    "BBGR", "YRGB", "BRYB", "BRBB", "RGYY", 
+    "YYYB", "GGGR", "RGGR", "BYGB", "BRBG", 
+    "BBBG", "BGGR", "BGGB", "GGGB", "RYRB", 
+    "RYGG", "RYBB", "RYGB", "RRGB", "GYGB", 
+    "YYGB", "BYRB", "YGGY", "YBGY", "YGGR", 
+    "YBGR", "BRRG", "RYRG", "BBRG", "BYRG", 
+    "RYYG", "BYBR", "RGGB", "YGYB", "BRGB", 
+    "RBRG", "RBBR", "RYGR", "GRYY", "GRGY", 
+    "GRGB"
+];
